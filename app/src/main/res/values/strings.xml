@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aula de inglês</string>
+
+    <string name="bichos_fragment">Bichos</string>
+    <string name="numeros_fragment">Numeros</string>
+    <string name="Vogais_fragment">Vogais</string>
+</resources>
